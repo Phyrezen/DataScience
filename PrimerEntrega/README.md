@@ -1,6 +1,6 @@
 # DataScience
 
-Esta entrega se armó tomando en cuenta un Dataset de Spotigy 2023, obtenido de kaggle:
+Esta entrega se armó tomando en cuenta un Dataset de Spotify 2023, obtenido de kaggle:
 https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-202
 
 Lo que me gustó de este Dataset es la variedad de columnas y cantidad de filas, permitiendo hacer gràficos avanzados sobre algo rutinario como lo que escuchamos.
