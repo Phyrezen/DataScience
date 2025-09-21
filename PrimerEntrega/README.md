@@ -8,7 +8,13 @@ De este data store se puede sacar desde lo que fue el trend de ese año o un map
 
 Para ejecutar el script es necesario descargar jupiter y las librerìas que utiliza:
 
-# Instalar Jupyter
+
+# Requisitos
+
+#tener Python 3.10 o superior instalado.
+https://www.python.org/downloads/
+
+#Instalar Jupyter
 pip install notebook
 
 #Instalar librerías usadas
