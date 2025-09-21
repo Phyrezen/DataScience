@@ -11,13 +11,13 @@ Para ejecutar el script es necesario descargar jupiter y las librerìas que util
 
 # Requisitos
 
-#tener Python 3.10 o superior instalado.
+tener Python 3.10 o superior instalado.
 https://www.python.org/downloads/
 
-#Instalar Jupyter
+Instalar Jupyter
 pip install notebook
 
-#Instalar librerías usadas
+Instalar librerías usadas
 pip install pandas matplotlib seaborn
 
 # Ejecutar Jupiter
