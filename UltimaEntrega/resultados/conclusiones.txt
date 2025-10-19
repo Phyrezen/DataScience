@@ -1,0 +1,4 @@
+Se creó una variable transformada (log_streams) para estabilizar la varianza de la variable objetivo.
+Las features seleccionadas automáticamente por Random Forest fueron: ['bpm', 'danceability_%', 'valence_%', 'acousticness_%', 'energy_%'].
+Comparando modelos, Random Forest ofrece generalmente mayor R2 en cross‑validation, lo cual sugiere relaciones no lineales.
+La regresión lineal aporta interpretabilidad (coeficientes), pero puede subestimar la complejidad del fenómeno.
