@@ -50,7 +50,7 @@ Se plantea que las canciones con mayores niveles de energía, bailabilidad y pre
 
 ## 6. Cómo ejecutar
 1. Verificar que el archivo `spotify‑2023.csv` esté dentro de la carpeta `data/`.
-2. Abrir el notebook `ProyectoParteIII+Gutierrez.ipynb` en Jupyter Lab / Jupyter Notebook.
+2. Abrir el notebook `UltimaEntrega_Analisis.ipynb` en Jupyter Lab / Jupyter Notebook.
 3. Ejecutar todas las celdas de arriba hacia abajo. Se generarán los gráficos y los archivos dentro de `resultados/`.
 4. Subir este repositorio a GitHub como entrega final.
 
