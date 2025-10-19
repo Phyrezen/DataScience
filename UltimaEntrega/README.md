@@ -1,6 +1,3 @@
-# Archivo README.md
-# Guardalo como README.md
-
 # Proyecto Parte III – Análisis y Modelado de Canciones en Spotify 2023
 
 ## 1. Descripción del proyecto
@@ -64,14 +61,7 @@ Al finalizar, encontrarás:
 - Una comparación cuantitativa de desempeño entre modelos (Lineal vs Random Forest).
 - Un archivo `conclusiones.txt` que recoge las interpretaciones de los resultados y posibles mejoras.
 
-## 8. Contacto
-Autor: **Pablo Gutierrez**  
-Repositorio GitHub: [Enlace a tu repositorio](https://github.com/)  
-(Completar con tu perfil y contacto si lo deseas)
-
-
-# Archivo requirements.txt
-# Guardalo como requirements.txt
+# Requisitos para su ejecución:
 pandas==2.2.0
 numpy==1.26.5
 matplotlib==3.8.1
@@ -79,3 +69,4 @@ seaborn==0.12.3
 scikit-learn==1.3.2
 reportlab==4.0.2
 
+Autor: **Pablo Gutierrez**  
